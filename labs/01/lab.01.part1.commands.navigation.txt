@@ -63,39 +63,19 @@ Copy and paste the output below.
 ==========
 5.  What key do I press to go to the previous command?
 ----------
-
-
-
-
-
-
+Up arrow
 ==========
 6.  Name two flags that we used in this exercise.
 ----------
-
-
-
-
-
-
+-a , -l
 ==========
 7.  What was the main command that we used throughout this exercise?
 ----------
-
-
-
-
-
-
+ls
 ==========
 8.  What's one an argument that we've so far passed to a command?
 ----------
-
-
-
-
-
-
+documents
 ==========
 9.  Type:
 
@@ -129,8 +109,10 @@ $ ls -a Desktop
 
 Identify the command, flag, argument, and prompt:
 ----------
-
-
+prompt : $
+command: ls
+flag :-a
+argument : desktop
 
 
 
