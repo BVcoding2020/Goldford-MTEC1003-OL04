@@ -129,7 +129,7 @@ Follow the instructions line-by-line.
 12. Open a new terminal window. Create a directory called mtec1002. What command did you use?
 ----------
 
-
+mkdir mtec1003
 
 
 
@@ -168,11 +168,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
-
-
-
-
+animals
 
 ==========
 16. Type:
@@ -182,11 +178,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
-
-
-
-
+animals food
 
 ==========
 17. Type:
@@ -196,11 +188,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
-
-
-
-
+animals foo food
 
 ==========
 18. Type:
